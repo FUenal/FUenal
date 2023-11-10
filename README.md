@@ -1,4 +1,24 @@
-<h1>Hi, I'm Fatih! <br/><a href="https://github.com/FUenal">Data Scientist</a> & <a href="https://www.linkedin.com/in/fuenal/">Cybersecurity Analyst</a></h1>
+<h1>Hi, I'm Fatih! <br/><a href="https://www.linkedin.com/in/fuenal/">Cybersecurity Analyst</a> & <a href="https://github.com/FUenal">Data Scientist</a></h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Active Directory Homelab</b>
+  - [Active Directory Homelab](https://github.com/FUenal)
+- <b>File Integrity Monitor</b>
+  - [File Integrity Monitor](https://github.com/FUenal)
+- <b>Virtual Active Directory Environment in Azure</b>
+  - [Virtual Active Directory Environment in Azure](https://github.com/FUenal)
+- <b>SIEM in Azure</b>
+  - [SIEM in Azure](https://github.com/FUenal)
+- <b>Vulnerability Management Lab</b>
+  - [Vulnerability Management Lab](https://github.com/FUenal)
+- <b>Network Anomalies Detection (ML)</b>
+  - [Machine Learning meets Cybersecurity](https://github.com/FUenal)
+- <b>Basic Network Scanner in Python</b>
+  - [Basic Network Scanner in Python](https://github.com/FUenal)
+- <b>Password Generator Program in Python</b>
+  - [Password Generator Program in Python](https://github.com/FUenal)
+- <b>Stay tuned for fun projects to come!</b> 
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
@@ -12,11 +32,6 @@
   - [Movie Recommendation System](https://github.com/FUenal/Harvard_Capstone_Project)
 - <b>Full Stack Data Science Projects: University of Geneva</b>
   - [XGBoost Algo on ESS8](https://colab.research.google.com/drive/1fHdv-q-jNwi8oZONkjoMpz1TwQ_rxfeI#scrollTo=n4oTDmOm71Rs)
-
-<h2>👨‍💻 Cyber Security Projects:</h2>
-
-- <b>Stay tuned for fun projects to come!</b>
-  
 
 <h2>📺 YouTube Videos</h2>
 
