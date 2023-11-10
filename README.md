@@ -33,6 +33,16 @@
 - <b>Full Stack Data Science Projects: University of Geneva</b>
   - [XGBoost Algo on ESS8](https://colab.research.google.com/drive/1fHdv-q-jNwi8oZONkjoMpz1TwQ_rxfeI#scrollTo=n4oTDmOm71Rs)
 
+<h2>👨‍💻 Certifications:</h2>
+
+- [Google Cybersecurity Specialist](https://www.coursera.org/account/accomplishments/specialization/certificate/VTTMXAX9MDAC)
+- [Network Traffic Analysis with TCPDump](https://coursera.org/verify/L3PUSA7ACLZJ)
+- [Wireshark for Beginners: Capture Packets](https://www.coursera.org/account/accomplishments/certificate/CKGMBVENBE7E)
+- [Microsoft Windows Defender and Firewall for Beginners](https://coursera.org/share/d598a5db7594472fa7bcb197048cb50a)
+- [Google IT Support Specialist](https://www.coursera.org/account/accomplishments/specialization/certificate/5CP32FTJB7QR)
+- [Harvard Data Science Professional](https://credentials.edx.org/credentials/f8c6c72de1c74cb9a970487b0854ea5a/)
+- [Harvard Machine Learning](https://courses.edx.org/certificates/f46fcf5ed6ce46deaee1065016c1badd)
+
 <h2>📺 YouTube Videos</h2>
 
 - [Presenting NLP Pipeline at Oxford University](https://www.youtube.com/watch?t=1&v=Qjkw1twD2No&feature=youtu.be&ab_channel=StockholmEnvironmentInstitute)
