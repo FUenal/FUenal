@@ -14,13 +14,8 @@
   - [XGBoost Algo on ESS8](https://colab.research.google.com/drive/1fHdv-q-jNwi8oZONkjoMpz1TwQ_rxfeI#scrollTo=n4oTDmOm71Rs)
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-- <b>PowerShell</b>
 
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
-- <b>Stay tuned for more!</b>
-
+- <b>Stay tuned for fun projects to come!</b>
   
 
 <h2>📺 YouTube Videos</h2>
