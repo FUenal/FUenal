@@ -10,8 +10,8 @@
   - [Setting Up Vulnerable VMs in Azure](https://github.com/FUenal/Azure-VM-Prep)
 - <b>Cloud SOC Project Resources</b>
   - [Cloud SOC Project Resources](https://github.com/FUenal/Cloud-SOC-Project-Resources)
-- <b>Active Directory Homelab</b>
-  - [Active Directory Homelab](https://github.com/FUenal)
+- <b>Security Incident Analysis Using SQL</b>
+  - [Security Incident Analysis Using SQL](https://github.com/FUenal/Security-Incident-Analysis-Using-SQL)
 - <b>File Integrity Monitor</b>
   - [File Integrity Monitor](https://github.com/FUenal)
 - <b>Virtual Active Directory Environment in Azure</b>
