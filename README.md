@@ -28,8 +28,6 @@
   - [File Integrity Monitor](https://github.com/FUenal)
 - <b>Virtual Active Directory Environment in Azure</b>
   - [Virtual Active Directory Environment in Azure](https://github.com/FUenal)
-- <b>SIEM in Azure</b>
-  - [SIEM in Azure](https://github.com/FUenal)
 - <b>Vulnerability Management Lab</b>
   - [Vulnerability Management Lab](https://github.com/FUenal)
 - <b>Network Anomalies Detection (ML)</b>
