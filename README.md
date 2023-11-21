@@ -1,3 +1,5 @@
+![Cloud Honeynet / SOC](https://github.com/FUenal/Azure-SOC-Honey-Net/blob/main/assets/r-l-tiejthy-btkttyhbj-o.jpg)
+
 <h1>Hi, I'm Fatih! <br/> <a href="https://github.com/FUenal">Data Scientist</a> & <a href="https://www.linkedin.com/in/fuenal/">Cybersecurity Analyst</a> </h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
