@@ -16,6 +16,12 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>Creating a Live SOC / Honey Net in Azure</b>
+  - [Creating a Live SOC / Honey Net in Azure](https://github.com/FUenal/Azure-SOC-Honey-Net)
+- <b>Setting Up Vulnerable VMs in Azure</b>
+  - [Setting Up Vulnerable VMs in Azure](https://github.com/FUenal/Azure-VM-Prep)
+- <b>Cloud SOC Project Resources</b>
+  - [Cloud SOC Project Resources](https://github.com/FUenal/Cloud-SOC-Project-Resources)
 - <b>Active Directory Homelab</b>
   - [Active Directory Homelab](https://github.com/FUenal)
 - <b>File Integrity Monitor</b>
