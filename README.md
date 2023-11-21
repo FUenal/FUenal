@@ -1,20 +1,6 @@
 ![Cloud Honeynet / SOC](https://github.com/FUenal/Azure-SOC-Honey-Net/blob/main/assets/cybersec_header1.jpg)
 
-<h1>Hi, I'm Fatih! <br/> <a href="https://github.com/FUenal">Data Scientist</a> & <a href="https://www.linkedin.com/in/fuenal/">Cybersecurity Analyst</a> </h1>
-
-<h2>👨‍💻 Data Science Projects:</h2>
-
-- <b>Natural Language Processing for policy classification</b>
-  - [Artificial Neural Network and Text Processing Pipeline in Python](https://github.com/FUenal/fossil_fuel_policy_nlp)
-- <b>Full Stack Web App (Shiny Dashboard, ShinyProxy, tidyverse, RSelenium, and Docker Components)</b>
-  - [Fossil Fuel Policy Tracker](https://github.com/FUenal/FFNPT_Tracker)
-- <b>Introduction to Data Science for Behavioral Scientist</b>
-  - [Interactive learning package](https://github.com/FUenal/datsci)
-- <b>Full Stack Data Science Projects: Harvard Data Science Professional Certificate (Machine Learning Components)</b>
-  - [Movie Recommendation System](https://github.com/FUenal/Harvard_Capstone_Project)
-- <b>Full Stack Data Science Projects: University of Geneva</b>
-  - [XGBoost Algo on ESS8](https://colab.research.google.com/drive/1fHdv-q-jNwi8oZONkjoMpz1TwQ_rxfeI#scrollTo=n4oTDmOm71Rs)
- 
+<h1>Hi, I'm Fatih! <br/> <a href="https://www.linkedin.com/in/fuenal/">Cybersecurity Analyst</a> & <a href="https://github.com/FUenal">Data Scientist</a> </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -39,6 +25,19 @@
 - <b>Password Generator Program in Python</b>
   - [Password Generator Program in Python](https://github.com/FUenal)
 - <b>Stay tuned for fun projects to come!</b> 
+
+<h2>👨‍💻 Data Science Projects:</h2>
+
+- <b>Natural Language Processing for policy classification</b>
+  - [Artificial Neural Network and Text Processing Pipeline in Python](https://github.com/FUenal/fossil_fuel_policy_nlp)
+- <b>Full Stack Web App (Shiny Dashboard, ShinyProxy, tidyverse, RSelenium, and Docker Components)</b>
+  - [Fossil Fuel Policy Tracker](https://github.com/FUenal/FFNPT_Tracker)
+- <b>Introduction to Data Science for Behavioral Scientist</b>
+  - [Interactive learning package](https://github.com/FUenal/datsci)
+- <b>Full Stack Data Science Projects: Harvard Data Science Professional Certificate (Machine Learning Components)</b>
+  - [Movie Recommendation System](https://github.com/FUenal/Harvard_Capstone_Project)
+- <b>Full Stack Data Science Projects: University of Geneva</b>
+  - [XGBoost Algo on ESS8](https://colab.research.google.com/drive/1fHdv-q-jNwi8oZONkjoMpz1TwQ_rxfeI#scrollTo=n4oTDmOm71Rs)
 
 <h2>👨‍💻 Certifications:</h2>
 
