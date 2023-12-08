@@ -12,6 +12,8 @@
   - [Cloud SOC Project Resources](https://github.com/FUenal/Cloud-SOC-Project-Resources)
 - <b>Security Incident Analysis Using SQL</b>
   - [Security Incident Analysis Using SQL](https://github.com/FUenal/Security-Incident-Analysis-Using-SQL)
+- <b>Vulnerability Management with OpenVAS</b>
+  - [Vulnerability Management with OpenVAS](https://github.com/FUenal/Vulnerability-Management-with-OpenVAS)
 
 - <b>Stay tuned for fun projects to come!</b> 
 
