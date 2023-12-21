@@ -4,6 +4,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>Deep learning and Machine learning for network threat detection</b>
+  - [Deep learning and Machine learning for network threat detection](https://github.com/FUenal/deep-learning-cybersecurity-ids/tree/main)
 - <b>Creating a Live SOC / Honey Net in Azure</b>
   - [Creating a Live SOC / Honey Net in Azure](https://github.com/FUenal/Azure-SOC-Honey-Net)
 - <b>Setting Up Vulnerable VMs in Azure</b>
