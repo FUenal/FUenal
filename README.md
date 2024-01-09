@@ -2,6 +2,19 @@
 
 <h1>Hi, I'm Fatih! <br/> <a href="https://github.com/FUenal">Data Scientist</a> </h1>
 
+<h2>👨‍💻 Data Science Projects:</h2>
+
+- <b>Natural Language Processing for policy classification</b>
+  - [Artificial Neural Network and Text Processing Pipeline in Python](https://github.com/FUenal/fossil_fuel_policy_nlp)
+- <b>Full Stack Web App (Shiny Dashboard, ShinyProxy, tidyverse, RSelenium, and Docker Components)</b>
+  - [Fossil Fuel Policy Tracker](https://github.com/FUenal/FFNPT_Tracker)
+- <b>Introduction to Data Science for Behavioral Scientist</b>
+  - [Interactive learning package](https://github.com/FUenal/datsci)
+- <b>Full Stack Data Science Projects: Harvard Data Science Professional Certificate (Machine Learning Components)</b>
+  - [Movie Recommendation System](https://github.com/FUenal/Harvard_Capstone_Project)
+- <b>Full Stack Data Science Projects: University of Geneva</b>
+  - [XGBoost Algo on ESS8](https://colab.research.google.com/drive/1fHdv-q-jNwi8oZONkjoMpz1TwQ_rxfeI#scrollTo=n4oTDmOm71Rs)
+
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Deep learning and Machine learning for network threat detection</b>
@@ -17,21 +30,8 @@
 - <b>Vulnerability Management with OpenVAS</b>
   - [Vulnerability Management with OpenVAS](https://github.com/FUenal/Vulnerability-Management-with-OpenVAS)
 
-- <b>Stay tuned for fun projects to come!</b> 
-
-<h2>👨‍💻 Data Science Projects:</h2>
-
-- <b>Natural Language Processing for policy classification</b>
-  - [Artificial Neural Network and Text Processing Pipeline in Python](https://github.com/FUenal/fossil_fuel_policy_nlp)
-- <b>Full Stack Web App (Shiny Dashboard, ShinyProxy, tidyverse, RSelenium, and Docker Components)</b>
-  - [Fossil Fuel Policy Tracker](https://github.com/FUenal/FFNPT_Tracker)
-- <b>Introduction to Data Science for Behavioral Scientist</b>
-  - [Interactive learning package](https://github.com/FUenal/datsci)
-- <b>Full Stack Data Science Projects: Harvard Data Science Professional Certificate (Machine Learning Components)</b>
-  - [Movie Recommendation System](https://github.com/FUenal/Harvard_Capstone_Project)
-- <b>Full Stack Data Science Projects: University of Geneva</b>
-  - [XGBoost Algo on ESS8](https://colab.research.google.com/drive/1fHdv-q-jNwi8oZONkjoMpz1TwQ_rxfeI#scrollTo=n4oTDmOm71Rs)
-
+- <b>Stay tuned for fun projects to come!</b>
+- 
 <h2>👨‍💻 Certifications:</h2>
 
 - [Google Cybersecurity Specialist](https://www.coursera.org/account/accomplishments/specialization/certificate/VTTMXAX9MDAC)
