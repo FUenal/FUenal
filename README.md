@@ -1,4 +1,4 @@
-![Cloud Honeynet / SOC](https://github.com/FUenal/Azure-SOC-Honey-Net/blob/main/assets/cybersec_header1.jpg)
+![Cloud Honeynet / SOC](https://github.com/FUenal/resources/blob/main/logo-transparent-png.png)
 
 <h1>Hi, I'm Fatih! <br/> <a href="https://github.com/FUenal">Data Scientist</a> </h1>
 
