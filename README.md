@@ -57,7 +57,7 @@
 
 [twitter]: https://twitter.com/DrUenal
 [youtube]: www.youtube.com/@thedataist
-[linkedin]: www.linkedin.com/in/fuenal
+[linkedin]: https://www.linkedin.com/in/fatih-uenal/
 
 <!--
 **FUenal/FUenal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
