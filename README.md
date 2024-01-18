@@ -1,4 +1,4 @@
-![Cloud Honeynet / SOC](https://github.com/FUenal/resources/blob/main/logo-png-cropped_github.png)
+![Banner / AI](https://github.com/FUenal/resources/blob/main/ai.jpg)
 
 <h1>Hi, I'm Fatih! <br/> <a href="https://github.com/FUenal">Data Scientist</a> </h1>
 
