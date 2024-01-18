@@ -1,4 +1,4 @@
-![Banner / AI](https://github.com/FUenal/resources/blob/main/ai.jpg)
+![Banner / AI](https://github.com/FUenal/resources/blob/main/ai_cropped.jpg)
 
 <h1>Hi, I'm Fatih! <br/> <a href="https://github.com/FUenal">Data Scientist</a> </h1>
 
