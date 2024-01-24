@@ -4,6 +4,10 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- <b>Multi-Channel Marketing Mix Optimization Dashboard</b>
+  - [Multi-Channel Marketing Mix Optimization Dashboard](https://mmm-demo-hqbtfk5ikq-oa.a.run.app/)
+- <b>Customer Lifetime Value Analytics Dashboard</b>
+  - [CLV Analytics Dashboard](https://clv-demo-hqbtfk5ikq-oa.a.run.app/)
 - <b>Natural Language Processing for policy classification</b>
   - [Artificial Neural Network and Text Processing Pipeline in Python](https://github.com/FUenal/fossil_fuel_policy_nlp)
 - <b>Full Stack Web App (Shiny Dashboard, ShinyProxy, tidyverse, RSelenium, and Docker Components)</b>
