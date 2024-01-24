@@ -1,4 +1,4 @@
-![Banner / AI](https://github.com/FUenal/resources/blob/main/ai_cropped.jpg)
+![Banner / AI](https://raw.githubusercontent.com/FUenal/resources/main/timeseries_forecast_demo.png)
 
 <h1>Hi, I'm Fatih! <br/> <a href="https://github.com/FUenal">Data Scientist</a> </h1>
 
