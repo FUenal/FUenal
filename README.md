@@ -28,7 +28,6 @@ I am a machine learning & data engineer and contractor with **4+ years of experi
 
 -----
 
-
 ### About my primary skills
 
 <img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=10" alt="Tech Stack" /> 
@@ -36,8 +35,6 @@ I am a machine learning & data engineer and contractor with **4+ years of experi
 | ⚫️ My **top** technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
 |---------------|--------------|
 | • Python, R, SQL <br/> • PyTorch, Scikit-Learn <br/> • NumPy, Pandas <br/> • AWS, GCP, Azure <br/> • Docker, FastAPI, Airflow, Kafka, Spark <br/> • Comet, Weights & Biases, MLFlow <br/> • PostgreSQL, Elasticsearch, Databricks <br/> • Dashboard: Shiny, Dash, Streamlit <br/> | • MLOps <br/> • NLP <br/> • Generative AI <br/> • Data Engineering <br/> • Time series analysis & forecasting <br/> • Batch & online serving <br/> • Continuous training & monitoring <br/> • REST API, gRPC & streaming design <br/> |
-
-
 
 .
 
