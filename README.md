@@ -32,9 +32,6 @@ I am a machine learning & data engineer and contractor with **4+ years of experi
 ### About my primary skills
 
 <img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=10" alt="Tech Stack" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FUenal&layout=compact&theme=tokyonight&langs_count=6" />
-
 <br/>
 <br/>
 <br/>
