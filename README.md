@@ -3,7 +3,7 @@
 ![Banner](https://raw.githubusercontent.com/FUenal/resources/main/timeseries_forecast_demo.png)
 
 <img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=20" alt="Tech Stack" /> 
-![Views](https://komarev.com/ghpvc/?username=FUenal)
+
 ### About Me
 
 **`Machine Learning & Data Engineer • MLOps • Contractor ~ Helping startups and companies engineer production-ready ML/AI systems.`**
@@ -56,4 +56,6 @@ I am a machine learning & data engineer and contractor with **4+ years of experi
 - [Walkthrough: Fossil Fuel Policy Tracker Web Application](https://youtu.be/SMStcR4YN8o?si=w8AMhL7HrNqHfm-S)
 - [Faculty AI Data Science Fellowship Presentation)](https://youtu.be/3UAe-SgLuT4?si=63bDHbXKL6LiM7Ke)
 - [Fossil Fuel Non-Proliferation Tracker Guide](https://youtu.be/1yU8l9RpyVc?si=GQQNe28kWXFnHgOx)
+
+![Views](https://komarev.com/ghpvc/?username=FUenal)
 
