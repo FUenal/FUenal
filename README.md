@@ -1,12 +1,11 @@
 # 🤖 Fatih Uenal
 ![Banner](images/github-header-image(4).png)
-
+<img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=20" alt="Tech Stack" /> 
 **`Machine Learning & Data Engineer • MLOps • Contractor ~ Helping companies engineer production-ready ML/AI systems.`**
 
 ![Views](https://komarev.com/ghpvc/?username=FUenal)
 
 ### About Me
-<img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=20" alt="Tech Stack" /> 
 I am a machine learning & data engineer and contractor with **4+ years of experience**. I design and implement modular, scalable, and production-ready machine learning systems for startups and companies worldwide. 
 
 🔥 My true passion is machine learning engineering. <br/>
