@@ -1,7 +1,9 @@
 # 🤖 Fatih Uenal
 
 ![Banner](https://raw.githubusercontent.com/FUenal/resources/main/timeseries_forecast_demo.png)
+
 **`Machine Learning & Data Engineer • MLOps • Contractor ~ Helping companies engineer production-ready ML/AI systems.`**
+
 ![Views](https://komarev.com/ghpvc/?username=FUenal)
 
 ### About Me
@@ -34,11 +36,8 @@ I am a machine learning & data engineer and contractor with **4+ years of experi
 
 -----
 ### Let's connect ↓
-.
 
 **`💬 Do you need machine learning solutions for your business? Let's discuss!`**
-
-.
 
 [<img alt="linkedin" width="40px" src="images/linkedin.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/fatih-uenal/)
 [<img alt="gmail" width="40px" src="images/gmail.png" align="left" style="padding-right:20px;"/>](mailto:mars.fatih@gmail.com?subject=[From%20GitHub]%20ML%20Collaborations)
