@@ -1,4 +1,6 @@
-img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=20" alt="Tech Stack" /> 
+# 🤖 Fatih Uenal
+
+<img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=20" alt="Tech Stack" /> 
 
 ![Banner](images/github-header-image(4).png)
 
