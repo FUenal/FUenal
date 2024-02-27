@@ -1,52 +1,68 @@
-![Banner / AI](https://raw.githubusercontent.com/FUenal/resources/main/timeseries_forecast_demo.png)
+# 🤖 Fatih Uenal
 
-<h1>Hi, I'm Fatih! <br/> <a href="https://github.com/FUenal">Data Scientist</a> </h1>
+![Banner](https://raw.githubusercontent.com/FUenal/resources/main/timeseries_forecast_demo.png)
 
-<h2>👨‍💻 Data Science Projects:</h2>
+**`Machine Learning & Data Engineer • MLOps • Contractor ~ Helping startups and companies engineer production-ready ML/AI systems.`**
+<br/>
+<br/>
+![Views](https://komarev.com/ghpvc/?username=FUenal)
 
-- <b>Multi-Channel Marketing Mix Optimization Dashboard</b>
-  - [Multi-Channel Marketing Mix Optimization Dashboard](https://mmm-demo-hqbtfk5ikq-oa.a.run.app/)
 
-- <b>Customer Lifetime Value Analytics Dashboard</b>
-  - [CLV Analytics Dashboard](https://clv-demo-hqbtfk5ikq-oa.a.run.app/)
+### About Me
 
-- <b>Natural Language Processing for policy classification</b>
-  - [Artificial Neural Network and Text Processing Pipeline in Python](https://github.com/FUenal/fossil_fuel_policy_nlp)
-- <b>Full Stack Web App (Shiny Dashboard, ShinyProxy, tidyverse, RSelenium, and Docker Components)</b>
-  - [Fossil Fuel Policy Tracker](https://github.com/FUenal/FFNPT_Tracker)
-- <b>Introduction to Data Science for Behavioral Scientist</b>
-  - [Interactive learning package](https://github.com/FUenal/datsci)
-- <b>Full Stack Data Science Projects: Harvard Data Science Professional Certificate (Machine Learning Components)</b>
-  - [Movie Recommendation System](https://github.com/FUenal/Harvard_Capstone_Project)
-- <b>Full Stack Data Science Projects: University of Geneva</b>
-  - [XGBoost Algo on ESS8](https://colab.research.google.com/drive/1fHdv-q-jNwi8oZONkjoMpz1TwQ_rxfeI#scrollTo=n4oTDmOm71Rs)
+I am a machine learning & data engineer and contractor with **4+ years of experience**. I design and implement modular, scalable, and production-ready machine learning systems for startups and companies worldwide. 
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+🔥 My true passion is machine learning engineering. <br/>
 
-- <b>Deep learning and Machine learning for network threat detection</b>
-  - [Deep learning and Machine learning for network threat detection](https://github.com/FUenal/deep-learning-cybersecurity-ids/tree/main)
-- <b>Creating a Live SOC / Honey Net in Azure</b>
-  - [Creating a Live SOC / Honey Net in Azure](https://github.com/FUenal/Azure-SOC-Honey-Net)
-- <b>Setting Up Vulnerable VMs in Azure</b>
-  - [Setting Up Vulnerable VMs in Azure](https://github.com/FUenal/Azure-VM-Prep)
-- <b>Cloud SOC Project Resources</b>
-  - [Cloud SOC Project Resources](https://github.com/FUenal/Cloud-SOC-Project-Resources)
-- <b>Security Incident Analysis Using SQL</b>
-  - [Security Incident Analysis Using SQL](https://github.com/FUenal/Security-Incident-Analysis-Using-SQL)
-- <b>Vulnerability Management with OpenVAS</b>
-  - [Vulnerability Management with OpenVAS](https://github.com/FUenal/Vulnerability-Management-with-OpenVAS)
+💛 Secretly in love with data engineering. <br/>
 
-- <b>Stay tuned for fun projects to come!</b>
-  
-<h2>👨‍💻 Certifications:</h2>
+🎨 I enjoy sharing my knowledge through creating content about designing and productionizing ML systems (see videos below). 
 
-- [Harvard Data Science Professional](https://credentials.edx.org/credentials/f8c6c72de1c74cb9a970487b0854ea5a/)
-- [Harvard Machine Learning](https://courses.edx.org/certificates/f46fcf5ed6ce46deaee1065016c1badd)
-- [Google Cybersecurity Specialist](https://www.coursera.org/account/accomplishments/specialization/certificate/VTTMXAX9MDAC)
-- [Network Traffic Analysis with TCPDump](https://coursera.org/verify/L3PUSA7ACLZJ)
-- [Wireshark for Beginners: Capture Packets](https://www.coursera.org/account/accomplishments/certificate/CKGMBVENBE7E)
-- [Microsoft Windows Defender and Firewall for Beginners](https://coursera.org/share/d598a5db7594472fa7bcb197048cb50a)
-- [Google IT Support Specialist](https://www.coursera.org/account/accomplishments/specialization/certificate/5CP32FTJB7QR)
+🪙 I am a time-series and forecasting enthusiast. <br/>
+
+👱🏻 Because I am not 100% a robot, I am also excited about SciFi, psychology, world music, hiking, yoga and meditation 🧘‍♂️. <br/>
+
+------
+
+👉 Check out [**Portfolio Webpage**](https://dataiq.netlify.app/), where you will find projects that showcase how I design, train, serve, and monitor data science projects and end-to-end ML systems.
+
+-----
+
+
+### About my primary skills
+
+<img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=10" alt="Tech Stack" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FUenal&layout=compact&theme=tokyonight&langs_count=6" />
+
+<br/>
+<br/>
+<br/>
+
+| ⚫️ My **top** technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
+|---------------|--------------|
+| • Python, R, SQL <br/> • PyTorch, Scikit-Learn <br/> • NumPy, Pandas <br/> • AWS, GCP, Azure <br/> • Docker, FastAPI, Airflow, Kafka, Spark <br/> • Comet, Weights & Biases, MLFlow <br/> • PostgreSQL, Elasticsearch, Databricks <br/> • Dashboard: Shiny, Dash, Streamlit <br/> | • MLOps <br/> • NLP <br/> • Generative AI <br/> • Data Engineering <br/> • Time series analysis & forecasting <br/> • Batch & online serving <br/> • Continuous training & monitoring <br/> • REST API, gRPC & streaming design <br/> |
+
+
+
+.
+
+**`💬 Do you need machine learning solutions for your business? Let's discuss!`**
+
+.
+
+-----
+### Let's connect ↓
+
+[<img alt="linkedin" width="40px" src="images/linkedin.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/fatih-uenal/)
+[<img alt="gmail" width="40px" src="images/gmail.png" align="left" style="padding-right:20px;"/>](mailto:mars.fatih@gmail.com?subject=[From%20GitHub]%20ML%20Collaborations)
+[<img alt="twitter" width="40px" src="images/twitter.png" align="left" style="padding-right:20px;"/>](https://twitter.com/DrUenal)
+
+<br/>
+<br/>
+<br/>
+
+-----
 
 <h2>📺 YouTube Videos</h2>
 
@@ -55,27 +71,3 @@
 - [Faculty AI Data Science Fellowship Presentation)](https://youtu.be/3UAe-SgLuT4?si=63bDHbXKL6LiM7Ke)
 - [Fossil Fuel Non-Proliferation Tracker Guide](https://youtu.be/1yU8l9RpyVc?si=GQQNe28kWXFnHgOx)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Fatih Uenal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Fatih Uenal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Fatih Uenal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[twitter]: https://twitter.com/DrUenal
-[youtube]: www.youtube.com/@thedataist
-[linkedin]: https://www.linkedin.com/in/fatih-uenal/
-
-<!--
-**FUenal/FUenal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
