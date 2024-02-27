@@ -30,7 +30,7 @@ I am a machine learning & data engineer and contractor with **4+ years of experi
 
 ### About my primary skills
 
-<img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=10" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=20" alt="Tech Stack" /> 
 
 | ⚫️ My **top** technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
 |---------------|--------------|
