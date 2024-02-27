@@ -29,16 +29,15 @@ I am a machine learning & data engineer and contractor with **4+ years of experi
 |---------------|--------------|
 | • Python, R, SQL <br/> • PyTorch, Scikit-Learn <br/> • NumPy, Pandas <br/> • AWS, GCP, Azure <br/> • Docker, FastAPI, Airflow, Kafka, Spark <br/> • Comet, Weights & Biases, MLFlow <br/> • PostgreSQL, Elasticsearch, Databricks <br/> • Dashboard: Shiny, Dash, Streamlit <br/> | • MLOps <br/> • NLP <br/> • Generative AI <br/> • Data Engineering <br/> • Time series analysis & forecasting <br/> • Batch & online serving <br/> • Continuous training & monitoring <br/> • REST API, gRPC & streaming design <br/> |
 
-<img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=20" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=10" alt="Tech Stack" /> 
 
+-----
+### Let's connect ↓
 .
 
 **`💬 Do you need machine learning solutions for your business? Let's discuss!`**
 
 .
-
------
-### Let's connect ↓
 
 [<img alt="linkedin" width="40px" src="images/linkedin.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/fatih-uenal/)
 [<img alt="gmail" width="40px" src="images/gmail.png" align="left" style="padding-right:20px;"/>](mailto:mars.fatih@gmail.com?subject=[From%20GitHub]%20ML%20Collaborations)
