@@ -1,7 +1,7 @@
-# 🤖 Fatih Uenal
+img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=20" alt="Tech Stack" /> 
 
 ![Banner](images/github-header-image(4).png)
-<img src="https://skillicons.dev/icons?i=python,r,vscode,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,git,aws,gcp,azure,sqlite,postgres,mysql,mongodb,fastapi,flask,kafka,&perline=20" alt="Tech Stack" /> 
+
 **`Machine Learning & Data Engineer • MLOps • Contractor ~ Helping companies engineer production-ready ML/AI systems.`**
 
 ![Views](https://komarev.com/ghpvc/?username=FUenal)
