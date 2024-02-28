@@ -1,4 +1,3 @@
-# Fatih Uenal
 ![Banner](images/github-header-image(4).png)
 **`Machine Learning & Data Engineer • MLOps • Contractor ~ Helping companies engineer production-ready ML/AI systems.`**
 
