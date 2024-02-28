@@ -15,8 +15,6 @@ I am a machine learning & data engineer and contractor with **4+ years of experi
 
 👱🏻 Because I am not 100% a robot, I am also excited about SciFi, psychology, world music, hiking, yoga and meditation 🧘‍♂️. <br/>
 
-------
-
 👉 Check out [**Portfolio Webpage**](https://dataiq.netlify.app/), where you will find projects that showcase how I design, train, serve, and monitor data science projects and end-to-end ML systems.
 
 -----
