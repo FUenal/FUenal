@@ -3,11 +3,11 @@
 ![Views](https://komarev.com/ghpvc/?username=FUenal)
 
 ### About Me
-I am a machine learning & data engineer and contractor with **4+ years of experience**. I design and implement modular, scalable, and production-ready machine learning systems for startups and companies worldwide. 
+I am a machine learning & data engineer and contractor with **4+ years of experience**. I design and implement modular, scalable, and production-ready machine-learning systems for startups and companies worldwide. 
 
 🔥 My true passion is machine learning engineering. <br/>
 
-💛 Secretly in love with data engineering. <br/>
+💛 Secretly in love with cyber security. <br/>
 
 🎨 I enjoy sharing my knowledge through creating content about designing and productionizing ML systems (see videos below). 
 
