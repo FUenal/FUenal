@@ -1,4 +1,4 @@
-<!-- This is commented out. --> ![Banner](images/github-header-image(4).png) <!-- This is commented out. --> 
+![Banner](images/github-header-image(4).png) 
 
 ![Views](https://komarev.com/ghpvc/?username=FUenal)
 
