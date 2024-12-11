@@ -35,7 +35,7 @@ I am a Cyber Security Analyst with a strong background in machine learning & dat
 <br/>
 <br/>
 <br/>
-![Views](https://komarev.com/ghpvc/?username=FUenal)
+
 
 -----
 
@@ -45,3 +45,6 @@ I am a Cyber Security Analyst with a strong background in machine learning & dat
 - [Walkthrough: Fossil Fuel Policy Tracker Web Application](https://youtu.be/SMStcR4YN8o?si=w8AMhL7HrNqHfm-S)
 - [Faculty AI Data Science Fellowship Presentation)](https://youtu.be/3UAe-SgLuT4?si=63bDHbXKL6LiM7Ke)
 - [Fossil Fuel Non-Proliferation Tracker Guide](https://youtu.be/1yU8l9RpyVc?si=GQQNe28kWXFnHgOx)
+
+
+![Views](https://komarev.com/ghpvc/?username=FUenal)
