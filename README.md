@@ -1,11 +1,11 @@
 ### About Me
 I am a Cyber Security Analyst with a strong background in machine learning & data engineering with **4+ years of experience**. 
 
-🔥 My true passion is data science and machine learning engineering. <br/>
+🔥 My true passion is using data science and machine learning engineering across domains. <br/>
 
-💛 Secretly in love with cyber security. <br/>
+💛 Secretly in love with cyber security and detection engineering. <br/>
 
-🎨 I enjoy sharing my knowledge through creating content about designing and productionizing ML systems (see videos below). 
+🎨 I enjoy sharing my knowledge through creating content about data science and cybersecurity (see videos below). 
 
 🪙 I am a time-series and forecasting enthusiast. <br/>
 
