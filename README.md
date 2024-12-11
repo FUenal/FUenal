@@ -1,11 +1,11 @@
-#![Banner](images/github-header-image(4).png)
+![Banner](images/github-header-image(4).png)
 
 ![Views](https://komarev.com/ghpvc/?username=FUenal)
 
 ### About Me
-I am a machine learning & data engineer and contractor with **4+ years of experience**. I design and implement modular, scalable, and production-ready machine-learning systems for startups and companies worldwide. 
+I am a Cyber Security Analyst with a strong background in machine learning & data engineering with **4+ years of experience**. 
 
-🔥 My true passion is machine learning engineering. <br/>
+🔥 My true passion is data science and machine learning engineering. <br/>
 
 💛 Secretly in love with cyber security. <br/>
 
