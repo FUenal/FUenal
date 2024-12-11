@@ -1,5 +1,3 @@
-![Views](https://komarev.com/ghpvc/?username=FUenal)
-
 ### About Me
 I am a Cyber Security Analyst with a strong background in machine learning & data engineering with **4+ years of experience**. 
 
@@ -37,6 +35,7 @@ I am a Cyber Security Analyst with a strong background in machine learning & dat
 <br/>
 <br/>
 <br/>
+![Views](https://komarev.com/ghpvc/?username=FUenal)
 
 -----
 
