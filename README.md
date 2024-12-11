@@ -1,4 +1,4 @@
-![Banner](images/Defender_Avatar.png) 
+![Banner](images/Defender_Avatar.png){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 ![Views](https://komarev.com/ghpvc/?username=FUenal)
 
