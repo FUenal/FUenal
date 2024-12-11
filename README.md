@@ -11,7 +11,7 @@ I am a Cyber Security Analyst with a strong background in machine learning & dat
 
 👱🏻 Because I am not 100% a robot, I am also excited about SciFi, psychology, world music, hiking, yoga and meditation 🧘‍♂️. <br/>
 
-👉 Check out [**Portfolio Webpage**](https://dataiq.netlify.app/), where you will find projects that showcase how I design, train, serve, and monitor data science projects and end-to-end ML systems.
+👉 Check out [**Portfolio Webpage**](https://dataiq.netlify.app/), where you will find projects that showcase how I design, train, serve, and monitor data science projects.
 
 -----
 
@@ -26,7 +26,7 @@ I am a Cyber Security Analyst with a strong background in machine learning & dat
 -----
 ### Let's connect ↓
 
-**`💬 Do you need machine learning solutions for your business? Let's discuss!`**
+**`💬 Let s Connect `**
 
 [<img alt="linkedin" width="40px" src="images/linkedin.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/fatih-uenal/)
 [<img alt="gmail" width="40px" src="images/gmail.png" align="left" style="padding-right:20px;"/>](mailto:mars.fatih@gmail.com?subject=[From%20GitHub]%20ML%20Collaborations)
