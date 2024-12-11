@@ -1,4 +1,4 @@
-![Banner](images/github-header-image(4).png) 
+![Banner](images/Defender_Avatar.png) 
 
 ![Views](https://komarev.com/ghpvc/?username=FUenal)
 
