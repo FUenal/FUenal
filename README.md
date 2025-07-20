@@ -1,17 +1,17 @@
 ### About Me
-I am a Cyber Security Analyst with a strong background in machine learning & data engineering with **5+ years of experience**. 
+I am a Cybersecurity Specialist with a strong background in data science, data engineering, & generative AI, boasting **9+ years of experience**. 
 
-🔥 My true passion is using data science and machine learning engineering across domains. <br/>
+🔥 My true passion is using data science and AI across knowledge domains. <br/>
 
-💛 Secretly in love with cyber security and detection engineering. <br/>
+💛 Secretly in love with cybersecurity and detection engineering, vulnerability management, and incident triage. <br/>
 
 🎨 I enjoy sharing my knowledge through creating content about data science and cybersecurity (see videos below). 
 
 🪙 I am a time-series and forecasting enthusiast. <br/>
 
-👱🏻 Because I am not 100% a robot, I am also excited about SciFi, psychology, world music, hiking, yoga and meditation 🧘‍♂️. <br/>
+👱🏻 Because I am not 100% a robot, I am also excited about SciFi, psychology, world music, hiking, yoga, and meditation 🧘‍♂️. <br/>
 
-👉 Check out [**Portfolio Webpage**](https://dataiq.netlify.app/), where you will find projects that showcase how I design, train, serve, and monitor data science projects.
+👉 Check out [**Portfolio Webpage**](https://fuenal.github.io/), where you will find projects that showcase how I design, train, serve, and monitor data science projects.
 
 -----
 
